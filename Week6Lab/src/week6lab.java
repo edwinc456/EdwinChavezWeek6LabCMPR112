@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class week6lab 
@@ -27,3 +26,5 @@ public static void main(String[]args)
 	 }
 	}
 }
+
+// NOt quite, Edwin.  Are you familiar with the Rock/PaperScissor game?
